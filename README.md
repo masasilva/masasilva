@@ -4,7 +4,7 @@
 
 Com larga experiência em ambientes de missão crítica, alta disponibilidade (HA), storages com grande volume de dados, data centers, cybersecurity e DevOps, possui também especialidade na implantação e gestão de soluções de backup com Veeam Backup, garantindo a integridade e recuperação de dados de forma eficiente.
 
-Especializações
+## 🔧Especializações
 • Cloud Computing: Azure, AWS, GCP, IaaS, PaaS, SaaS.  
 • Office 365: Exchange (On-Line / On-Premises), SharePoint, Teams, OneDrive, Intune.  
 • DevOps & Automação: GitHub, Jenkins e Terraform.  
@@ -35,7 +35,6 @@ Plus, Zendesk, Jira.
 - 📘 [Playbook Técnico: VMware Lifecycle Manager](https://github.com/masasilva/playbook-vmware-lifecycle)
 - 🕵️ [Monitoramento de Vulnerabilidades via PowerShell](https://github.com/masasilva/monitoramento-vulnerabilidades)
 
-
 ---
 
 ## 🚀 Tecnologias e Competências
@@ -48,7 +47,7 @@ Plus, Zendesk, Jira.
 [![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat&logo=microsoftonedrive&logoColor=white)]()
 [![Intune](https://img.shields.io/badge/-Intune-0078D4?style=flat&logo=microsoft&logoColor=white)]()
 
-## 🚀 DevOps & Automação  
+🚀 DevOps & Automação  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)]()
 [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)]()
