@@ -59,7 +59,6 @@ Plus, Zendesk, Jira.
 <!-- Segurança da Informação -->
 [![Cibersegurança](https://img.shields.io/badge/-Cybersegurança-8A2BE2?style=flat&logo=security&logoColor=white)](https://www.cisa.gov/)
 [![Kaspersky](https://img.shields.io/badge/-Kaspersky-006C54?style=flat&logoColor=white)](https://www.kaspersky.com/)
-[![McAfee](https://img.shields.io/badge/-McAfee-VirusScan-C8102E?style=flat&logoColor=white)](https://www.mcafee.com/)
 [![Bitdefender](https://img.shields.io/badge/-Bitdefender-ED1C24?style=flat&logoColor=white)](https://www.bitdefender.com/)
 [![MFA](https://img.shields.io/badge/-MFA-5D3FD3?style=flat&logo=okta&logoColor=white)](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
 [![Firewall](https://img.shields.io/badge/-Firewall-DC143C?style=flat&logo=fortinet&logoColor=white)](https://learn.microsoft.com/en-us/azure/firewall/)
