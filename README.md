@@ -5,25 +5,25 @@
 Com larga experiência em ambientes de missão crítica, alta disponibilidade (HA), storages com grande volume de dados, data centers, cybersecurity e DevOps, possui também especialidade na implantação e gestão de soluções de backup com Veeam Backup, garantindo a integridade e recuperação de dados de forma eficiente.
 
 Especializações
-• Cloud Computing: Azure, AWS, GCP, IaaS, PaaS, SaaS.
-• Office 365: Exchange (On-Line / On-Premises), SharePoint, Teams, OneDrive, Intune.
-• DevOps & Automação: GitHub, Jenkins e Terraform.
-• Active Directory (AD): 2022/2019/2012/2008/2003/2000/NT.
-• Infraestrutura: Windows Server (2022/2019/2012/2008/2003/2000/NT)
-• Microsoft Windows: (11/10/8/7/XP/2000/98/95).
-• Microsoft System Center: SCCM 2012/2019, SCOM 2012/2019.
-• Serviços de Rede: GPOs, DFS, DHCP, DNS, Terminal Server, Remote Desktop Services, TCP/IP, RAID, PowerShell, VPN.
-• Microsoft Cluster Failover: Implementação e gerenciamento de clusters para alta disponibilidade.
-• Troubleshooting: Análise e resolução de problemas técnicos avançados.
+• Cloud Computing: Azure, AWS, GCP, IaaS, PaaS, SaaS.  
+• Office 365: Exchange (On-Line / On-Premises), SharePoint, Teams, OneDrive, Intune.  
+• DevOps & Automação: GitHub, Jenkins e Terraform.  
+• Active Directory (AD): 2022/2019/2012/2008/2003/2000/NT.  
+• Infraestrutura: Windows Server (2022/2019/2012/2008/2003/2000/NT)  
+• Microsoft Windows: (11/10/8/7/XP/2000/98/95).  
+• Microsoft System Center: SCCM 2012/2019, SCOM 2012/2019.  
+• Serviços de Rede: GPOs, DFS, DHCP, DNS, Terminal Server, Remote Desktop Services, TCP/IP, RAID, PowerShell, VPN.  
+• Microsoft Cluster Failover: Implementação e gerenciamento de clusters para alta disponibilidade.  
+• Troubleshooting: Análise e resolução de problemas técnicos avançados.  
 • Banco de Dados: SQL Server 2012/2019, MSSQL AlwaysOn, MySQL, Oracle, DataSul, Progress, Sistemas ERP, ServiceDesk
-Plus, Zendesk, Jira.
-• Virtualização: VMware, Citrix, Microsoft Hyper-V, OracleVM.
-• Armazenamento: Storage Area Network (SAN), Network-Attached Storage (NAS).
-• Sistemas de Armazenamento: Vmax, VNX, Clarion, Centera, Exadata.
-• Servidores: Huawei, HP, DELL, IBM, ACER, SUN, BladeSystem Enclosures, CISCO.
-• Monitoramento de Rede: Nagios, SolarWinds, Grafana, Zabbix.
-• Cybersecurity & Gestão de Segurança da Informação: Estratégia de Cybersecurity, Zero Trust, SIEM, Kaspersky, McAfee VirusScan, Bitdefender, Gestão de Permissões, Gestão de Vulnerabilidades, MFA, NPS, Gestão de VPN, Proxy, Firewall, Certificado Digital, Certificate Authority e Hardening.
-• Soluções de Backup: Data Protector, NetBackup, Tivoli Storage Manager (TSM), Bacula, Avamar, Veeam Backup Replication, Rubrik.
+Plus, Zendesk, Jira.  
+• Virtualização: VMware, Citrix, Microsoft Hyper-V, OracleVM.  
+• Armazenamento: Storage Area Network (SAN), Network-Attached Storage (NAS).  
+• Sistemas de Armazenamento: Vmax, VNX, Clarion, Centera, Exadata.  
+• Servidores: Huawei, HP, DELL, IBM, ACER, SUN, BladeSystem Enclosures, CISCO.  
+• Monitoramento de Rede: Nagios, SolarWinds, Grafana, Zabbix.  
+• Cybersecurity & Gestão de Segurança da Informação: Estratégia de Cybersecurity, Zero Trust, SIEM, Kaspersky, McAfee VirusScan, Bitdefender, Gestão de Permissões, Gestão de Vulnerabilidades, MFA, NPS, Gestão de VPN, Proxy, Firewall, Certificado Digital, Certificate Authority e Hardening.  
+• Soluções de Backup: Data Protector, NetBackup, Tivoli Storage Manager (TSM), Bacula, Avamar, Veeam Backup Replication, Rubrik.  
   
 🛡️ Especialista em Infraestrutura | SRE | Windows | Azure | VMware | Veeam Backup | Cloud | SCCM | Intune | SysOps | Cibersegurança |
 
