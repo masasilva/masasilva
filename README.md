@@ -35,6 +35,7 @@ Plus, Zendesk, Jira.
 - 📘 [Playbook Técnico: VMware Lifecycle Manager](https://github.com/masasilva/playbook-vmware-lifecycle)
 - 🕵️ [Monitoramento de Vulnerabilidades via PowerShell](https://github.com/masasilva/monitoramento-vulnerabilidades)
 
+
 ---
 
 ## 🚀 Tecnologias e Competências
