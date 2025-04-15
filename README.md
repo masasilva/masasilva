@@ -26,6 +26,7 @@ Plus, Zendesk, Jira.
 • Soluções de Backup: Data Protector, NetBackup, Tivoli Storage Manager (TSM), Bacula, Avamar, Veeam Backup Replication, Rubrik.  
   
 🛡️ Especialista em Infraestrutura | SRE | Windows | Azure | VMware | Veeam Backup | Cloud | SCCM | Intune | SysOps | Cibersegurança |
+
 ---
 
 ### 🚀 Meus Projetos Recentes
