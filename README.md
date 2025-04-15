@@ -2,7 +2,7 @@
 
 🎯 **Especialista em Infraestrutura de TI, Segurança da Informação e Cloud Computing**  
 💼 +25 anos de experiência em ambientes críticos, financeiros e governamentais  
-🛡️ VMware | Azure | Office365 | Veeam Backup | SCCM | PowerShell
+🛡️ VMware | Azure | Office365 | Veeam Backup | SCCM | PowerShell | Windows
 
 ---
 
