@@ -37,7 +37,7 @@ Plus, Zendesk, Jira.
 ---
 
 ### 🧰 Skills Principais
-![Windows](https://img.shields.io/badge/-Veeam-21A366?style=flat&logoColor=Black)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 ![VMware](https://img.shields.io/badge/-VMware-0071C5?style=flat&logo=vmware&logoColor=green)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=Blue)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=DarkBlue)
