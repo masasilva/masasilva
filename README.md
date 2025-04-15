@@ -6,7 +6,7 @@ Com larga experiência em ambientes de missão crítica, alta disponibilidade (H
 
 ---
 
-## 🔧Especializações
+🔧Especializações
 • Cloud Computing: Azure, AWS, GCP, IaaS, PaaS, SaaS.  
 • Office 365: Exchange (On-Line / On-Premises), SharePoint, Teams, OneDrive, Intune.  
 • DevOps & Automação: GitHub, Jenkins e Terraform.  
