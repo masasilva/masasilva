@@ -37,26 +37,71 @@ Plus, Zendesk, Jira.
 ---
 
 ### 🧰 Skills Principais
-<!-- Linha 1 -->
-[![Intune](https://img.shields.io/badge/-Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/mem/intune/)
+<!-- Gerenciamento e Infraestrutura -->
+[![Intune](https://img.shields.io/badge/-Intune-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/mem/intune/)
 [![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
 [![Veeam](https://img.shields.io/badge/-Veeam_Backup-21A366?style=flat&logoColor=white)](https://www.veeam.com/)
-[![Cloud](https://img.shields.io/badge/-Cloud_Computing-00C7B7?style=flat&logo=cloudflare&logoColor=white)](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
-
-<!-- Linha 2 -->
-[![SCCM](https://img.shields.io/badge/-Microsoft_SCCM-2C2C2C?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/mem/configmgr/)
+[![SCCM](https://img.shields.io/badge/-SCCM-2C2C2C?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/mem/configmgr/)
 [![SysOps](https://img.shields.io/badge/-SysOps-5A5A5A?style=flat&logo=linux&logoColor=white)](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
-[![Cybersecurity](https://img.shields.io/badge/-Cybersegurança-8A2BE2?style=flat&logo=security&logoColor=white)](https://www.cisa.gov/)
-[![Infraestrutura](https://img.shields.io/badge/-Especialista_em_Infraestrutura-34495E?style=flat&logo=server&logoColor=white)](https://learn.microsoft.com/en-us/)
-
-<!-- Linha 3 -->
-[![SRE](https://img.shields.io/badge/-SRE_Site_Reliability_Engineer-0A66C2?style=flat&logo=google&logoColor=white)](https://sre.google/)
+[![SRE](https://img.shields.io/badge/-SRE-0A66C2?style=flat&logo=google&logoColor=white)](https://sre.google/)
 [![Datacenter](https://img.shields.io/badge/-Datacenter-6E6E6E?style=flat&logo=cisco&logoColor=white)](https://www.ibm.com/topics/data-center)
+[![Especialista em Infraestrutura](https://img.shields.io/badge/-Infraestrutura-34495E?style=flat&logo=server&logoColor=white)](https://learn.microsoft.com/en-us/)
+[![Cloud](https://img.shields.io/badge/-Cloud-00C7B7?style=flat&logo=cloudflare&logoColor=white)](https://azure.microsoft.com/)
 
+<!-- Plataformas e Serviços -->
+[![IaaS](https://img.shields.io/badge/-IaaS-3E8EDE?style=flat&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+[![PaaS](https://img.shields.io/badge/-PaaS-008080?style=flat&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/overview/what-is-paas/)
+[![SaaS](https://img.shields.io/badge/-SaaS-20C997?style=flat&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/overview/what-is-saas/)
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/)
 
+<!-- Segurança da Informação -->
+[![Cibersegurança](https://img.shields.io/badge/-Cybersegurança-8A2BE2?style=flat&logo=security&logoColor=white)](https://www.cisa.gov/)
+[![Kaspersky](https://img.shields.io/badge/-Kaspersky-006C54?style=flat&logoColor=white)](https://www.kaspersky.com/)
+[![McAfee](https://img.shields.io/badge/-McAfee-VirusScan-C8102E?style=flat&logoColor=white)](https://www.mcafee.com/)
+[![Bitdefender](https://img.shields.io/badge/-Bitdefender-ED1C24?style=flat&logoColor=white)](https://www.bitdefender.com/)
+[![MFA](https://img.shields.io/badge/-MFA-5D3FD3?style=flat&logo=okta&logoColor=white)](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
+[![Firewall](https://img.shields.io/badge/-Firewall-DC143C?style=flat&logo=fortinet&logoColor=white)](https://learn.microsoft.com/en-us/azure/firewall/)
+[![Proxy](https://img.shields.io/badge/-Proxy_Servers-3F51B5?style=flat&logo=squid&logoColor=white)](https://wiki.squid-cache.org/)
+[![VPN](https://img.shields.io/badge/-VPN-1E90FF?style=flat&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
+[![Gestão de Permissões](https://img.shields.io/badge/-Gestão_de_Permissões-4B0082?style=flat)]()
+[![Gestão de Vulnerabilidades](https://img.shields.io/badge/-Gestão_de_Vulnerabilidades-B22222?style=flat)]()
+[![Certificate Authority](https://img.shields.io/badge/-Certificate_Authority-228B22?style=flat)]()
+[![Hardening](https://img.shields.io/badge/-Hardening-556B2F?style=flat)]()
+[![NPS](https://img.shields.io/badge/-NPS_Server-4682B4?style=flat)]()
+[![Active Directory](https://img.shields.io/badge/-Active_Directory-1E90FF?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/)
 
+<!-- Ferramentas de DevOps e Automação -->
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Hyper-V](https://img.shields.io/badge/-Hyper--V-0063B1?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
 
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=DarkBlue)
+<!-- Produtividade e Colaboração -->
+[![Office 365](https://img.shields.io/badge/-Office_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)](https://www.office.com/)
+[![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.microsoft.com/sharepoint)
+[![Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+[![Citrix](https://img.shields.io/badge/-Citrix-00A1E0?style=flat&logo=citrix&logoColor=white)](https://www.citrix.com/)
+
+<!-- Infraestrutura e Monitoramento -->
+[![Rubrik](https://img.shields.io/badge/-Rubrik-00ADEF?style=flat&logoColor=white)](https://www.rubrik.com/)
+[![SAN](https://img.shields.io/badge/-Storage_Area_Network-778899?style=flat)]()
+[![NAS](https://img.shields.io/badge/-Network_Attached_Storage-708090?style=flat)]()
+[![Clusters](https://img.shields.io/badge/-Clusters-6A5ACD?style=flat)]()
+[![Nagios](https://img.shields.io/badge/-Nagios-000000?style=flat&logo=nagios&logoColor=white)](https://www.nagios.org/)
+[![SolarWinds](https://img.shields.io/badge/-SolarWinds-F28C28?style=flat)](https://www.solarwinds.com/)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
+
+<!-- Outros -->
+[![HP](https://img.shields.io/badge/-HP-0096D6?style=flat&logo=hp&logoColor=white)](https://www.hp.com/)
+[![Dell](https://img.shields.io/badge/-Dell-007DB8?style=flat&logo=dell&logoColor=white)](https://www.dell.com/)
+[![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![BladeSystem](https://img.shields.io/badge/-BladeSystem-696969?style=flat)]()
+[![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-808080?style=flat)]()
+
 
 ---
 
