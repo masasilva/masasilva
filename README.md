@@ -37,13 +37,26 @@ Plus, Zendesk, Jira.
 ---
 
 ### 🧰 Skills Principais
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-![VMware](https://img.shields.io/badge/-VMware-0071C5?style=flat&logo=vmware&logoColor=green)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=Blue)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=DarkBlue)
-![SCCM](https://img.shields.io/badge/-SCCM-0078D7?style=flat&logo=microsoft&logoColor=white)
-![Veeam](https://img.shields.io/badge/-Veeam-21A366?style=flat&logoColor=Darkgreen)
+<!-- Linha 1 -->
+[![Intune](https://img.shields.io/badge/-Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/mem/intune/)
+[![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![Veeam](https://img.shields.io/badge/-Veeam_Backup-21A366?style=flat&logoColor=white)](https://www.veeam.com/)
+[![Cloud](https://img.shields.io/badge/-Cloud_Computing-00C7B7?style=flat&logo=cloudflare&logoColor=white)](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 
+<!-- Linha 2 -->
+[![SCCM](https://img.shields.io/badge/-Microsoft_SCCM-2C2C2C?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/mem/configmgr/)
+[![SysOps](https://img.shields.io/badge/-SysOps-5A5A5A?style=flat&logo=linux&logoColor=white)](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+[![Cybersecurity](https://img.shields.io/badge/-Cybersegurança-8A2BE2?style=flat&logo=security&logoColor=white)](https://www.cisa.gov/)
+[![Infraestrutura](https://img.shields.io/badge/-Especialista_em_Infraestrutura-34495E?style=flat&logo=server&logoColor=white)](https://learn.microsoft.com/en-us/)
+
+<!-- Linha 3 -->
+[![SRE](https://img.shields.io/badge/-SRE_Site_Reliability_Engineer-0A66C2?style=flat&logo=google&logoColor=white)](https://sre.google/)
+[![Datacenter](https://img.shields.io/badge/-Datacenter-6E6E6E?style=flat&logo=cisco&logoColor=white)](https://www.ibm.com/topics/data-center)
+
+
+
+
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=DarkBlue)
 
 ---
 
