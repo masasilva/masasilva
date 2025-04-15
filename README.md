@@ -27,8 +27,6 @@ Plus, Zendesk, Jira.
 • Cybersecurity & Gestão de Segurança da Informação: Estratégia de Cybersecurity, Zero Trust, SIEM, Kaspersky, McAfee VirusScan, Bitdefender, Gestão de Permissões, Gestão de Vulnerabilidades, MFA, NPS, Gestão de VPN, Proxy, Firewall, Certificado Digital, Certificate Authority e Hardening.  
 • Soluções de Backup: Data Protector, NetBackup, Tivoli Storage Manager (TSM), Bacula, Avamar, Veeam Backup Replication, Rubrik.  
   
-🛡️ Especialista em Infraestrutura | SRE | Windows | Azure | VMware | Veeam Backup | Cloud | SCCM | Intune | SysOps | Cibersegurança |
-
 ---
 
 🚀 Meus Projetos Recentes
