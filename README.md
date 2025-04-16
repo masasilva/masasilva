@@ -134,7 +134,13 @@ Plus, Zendesk, Jira.
 ---
 
 📫 **Contato:**  
-📧 mas.asilva@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/matheus-s-6a6b0734b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheus--s--6a6b0734-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheus-s-6a6b0734/)
+[![GitHub](https://img.shields.io/badge/GitHub-masasilva-black?style=flat-square&logo=github)](https://github.com/masasilva)
+[![Email](https://img.shields.io/badge/E--mail-mas.asilva@outlook.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:mas.asilva@outlook.com)
+
+---
+
+> 💡 *“A tecnologia move o mundo, mas é o conhecimento que o transforma.”*
+
 
 
