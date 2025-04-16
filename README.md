@@ -128,7 +128,7 @@ Plus, Zendesk, Jira.
 
 📈 Estatísticas GitHub
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=masasilva&show_icons=true&theme=github_dark)
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=masasilva&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masasilva&layout=compact)
 
 ---
