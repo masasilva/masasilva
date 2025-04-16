@@ -139,6 +139,7 @@ Plus, Zendesk, Jira.
 [![Email](https://img.shields.io/badge/E--mail-mas.asilva@outlook.com-Red?style=flat-square&logo=microsoftoutlook)](mailto:mas.asilva@outlook.com)
 
 
+
 ---
 
 > 💡 *“A tecnologia move o mundo, mas é o conhecimento que o transforma.”*
