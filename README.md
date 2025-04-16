@@ -136,7 +136,7 @@ Plus, Zendesk, Jira.
 📫 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheus--s--6a6b0734-Purple?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheus-s-6a6b0734/)
 [![GitHub](https://img.shields.io/badge/GitHub-masasilva-Purple?style=flat-square&logo=github)](https://github.com/masasilva)
-[![Email](https://img.shields.io/badge/E--mail-mas.asilva@outlook.com-Red?style=flat-square&logo=microsoftoutlook)](mailto:mas.asilva@outlook.com)
+[![Email](https://img.shields.io/badge/E--mail-mas.asilva@outlook.com-Purple?style=flat-square&logo=microsoftoutlook)](mailto:mas.asilva@outlook.com)
 
 
 
