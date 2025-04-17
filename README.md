@@ -34,6 +34,7 @@ Plus, Zendesk, Jira.
 - 🔧 [Automação de Atualização do WinRAR via SCCM](https://github.com/masasilva/automacao-winrar-sccm)
 - 📘 [Playbook Técnico: VMware Lifecycle Manager](https://github.com/masasilva/playbook-vmware-lifecycle)
 - 🕵️ [Monitoramento de Vulnerabilidades via PowerShell](https://github.com/masasilva/monitoramento-vulnerabilidades)
+- 🔧 [Kit Instalação SCCM+SQL Auto Install](https://github.com/masasilva/AutoInstall-SCCM-SQL)
 
 ---
 
