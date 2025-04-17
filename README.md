@@ -1,5 +1,3 @@
-![Uploading datacenter-hospedagem-de-sites.jpg…]()
-
 # 👋 Olá, eu sou o Matheus Silva!   *** EM CONTRUÇÃO ***
 ---
 🎯 Profissional com 25 anos de experiência em Tecnologia da Informação, Líder em projetos críticos para instituições financeiras e governamentais, com foco na migração de ambientes on-premises para a nuvem. Experiência internacional, com especialização em Segurança da Informação, Virtualização, Cloud Computing, Desenvolvimento e Implementação de soluções utilizando Microsoft IaaS, PaaS, Azure e Office365.
