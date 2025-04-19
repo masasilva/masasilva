@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus Silva!  
 ---
-🎯 Profissional com 25 anos de experiência em Tecnologia da Informação, Líder em projetos críticos para instituições financeiras e governamentais, com foco na migração de ambientes on-premises para a nuvem. Experiência internacional, com especialização em Segurança da Informação, Virtualização, Cloud Computing, Desenvolvimento e Implementação de soluções utilizando Microsoft IaaS, PaaS, Azure e Office365.
+🎯 Profissional com mais de 25 anos de experiência em Tecnologia da Informação, atuando em projetos críticos para instituições financeiras e governamentais no Brasil e no exterior. Tenho ampla vivência em ambientes de missão crítica, com foco em migrações de ambientes on-premises para a nuvem, implementações de alta disponibilidade, segurança da informação e soluções de backup robustas com Veeam.
 
-Com larga experiência em ambientes de missão crítica, alta disponibilidade (HA), storages com grande volume de dados, data centers, cybersecurity e DevOps, possui também especialidade na implantação e gestão de soluções de backup com Veeam Backup, garantindo a integridade e recuperação de dados de forma eficiente.
+Especialista em infraestrutura Microsoft (Windows Server, AD, SCCM, Azure, Office365), virtualização (VMware, Citrix, Hyper-V), cloud computing (Azure, AWS, GCP) e automação (GitHub, Terraform, Jenkins). Entrego valor com uma abordagem orientada a resultados, segurança, resiliência e eficiência operacional.
 
 ---
 
